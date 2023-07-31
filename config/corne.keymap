@@ -13,7 +13,7 @@
         compatible = "zmk,combos";
 
         toggle-dvork {
-            bindings = <&tog 3>;
+            bindings = <&to 3>;
             key-positions = <14 15 16>;
             layers = <0 3>;
         };
